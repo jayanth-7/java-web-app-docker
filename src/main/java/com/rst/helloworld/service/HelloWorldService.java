@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "Hey Jayanth, We are now in Demo server. You've successfully deployed application.";
+			return "Hey Jayanth, We are now in Demo server. You've successfully deployed application into the server.";
 		}else{
 			return "Hello " + name;
 		}
