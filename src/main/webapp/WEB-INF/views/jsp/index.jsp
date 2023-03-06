@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>We are in the demo application.</h2>
+			<h2>Hey you've built and deployed this app. We are in the demo application.</h2>
 			<h3>Contact @ +91-11111111 ,+91-222222222</h3>
 		</div>	
 	</div>
